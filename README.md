@@ -9,7 +9,7 @@ Jobly is a comprehensive job application tracking web app specifically designed 
 
 
 ## How to Run
-1. Clone the repository by running `git clone https://github.com/kimchee-e/Application_Tracker.git`
+1. Clone the repository by running `git clone https://github.com/lukeflannigan/Jobly.git`
 
 2. Navigate to the project directory by running `cd Application_Tracker`
 
